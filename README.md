@@ -18,3 +18,6 @@ A simple web app that shows the weather for any city using the OpenWeatherMap AP
 
 ## 📡 API Used
 [OpenWeatherMap API](https://openweathermap.org/api)
+
+## URL OF THE SITE
+weatherlycloudmood.netlify.app
